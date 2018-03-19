@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ArtHistoryQuiz</string>
+    <string name="question_vanGogh">Vincent Van Gogh is from France</string>
+    <string name="question_picasso">Cubism was made famous by Pablo Picasso</string>
+    <string name="question_warhol">One of Andy Warhol\'s pieces depicts Progresso soup cans</string>
+    <string name="question_michelangelo">Michelangelo painted the Sistine Chapel ceiling</string>
+    <string name="question_daVinci">Da Vinci\'s famous statue is called The Daniel</string>
+    <string name="question_degas">Edgar Degas made hundreds of paintings of ballet dancers</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Prev</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Study harder next time!</string>
+</resources>
